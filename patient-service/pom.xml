@@ -78,6 +78,7 @@
             <artifactId>spring-boot-h2console</artifactId>
             <version>4.1.0</version>
         </dependency>
+
     </dependencies>
 
     <build>
