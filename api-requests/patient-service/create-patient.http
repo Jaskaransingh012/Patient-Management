@@ -1,0 +1,11 @@
+### POST REQUEST TO CREATE A PATIENT
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+ "name": "john doe",
+  "email": "john@gmail.com",
+  "address": "fsafd",
+  "dateOfBirth" : "2005-04-06",
+  "registeredDate" : "2026-01-01"
+}

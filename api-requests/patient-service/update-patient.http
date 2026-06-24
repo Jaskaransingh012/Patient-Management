@@ -1,0 +1,3 @@
+### PUT request to Update the patients
+PUT https://localhost:4000/patients
+Content-Type: application/json
